@@ -6,13 +6,13 @@ Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <5
 
 ## Partecipanti
 Elenco partecipanti
-*Zana Simone
-*Assoni Irene
-*Trevisan Michele
+* Zana Simone
+* Assoni Irene
+* Trevisan Michele
 
 ## Ruoli
 
-* PROJECT_MANAGER = 
+* PROJECT_MANAGER = Trevisan Michele
 * DOCUMENTAZIONE = 
 * CSS = 
 
