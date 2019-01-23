@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: auto;
+}
+p.description{
+    font-size: 10px;
+    font-family: monospace;
+}

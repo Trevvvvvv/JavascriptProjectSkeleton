@@ -9,7 +9,8 @@ function bookSearch() {
 
         success: function(data){
             for (i=0;i<data.items.length;i++){
-                results.innerHTML += "<h2>" + data.items[i].volumeInfo.title + "</h2>" + "<img src=" + data.items[i].volumeInfo.imageLinks.smallThumbnail + ">"
+                console.log(data.items[i]);
+                results.innerHTML += "<h2>" + data.items[i].volumeInfo.title + "</h2>" + "<img src=" + data.items[i].volumeInfo.imageLinks.thumbnail  + ">" + "<p class='description'>"  + data.items[i].volumeInfo.description + "</p>"
             }
         },
         type: 'GET'

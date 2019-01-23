@@ -13,8 +13,9 @@ Elenco partecipanti
 ## Ruoli
 
 * PROJECT_MANAGER = Trevisan Michele
-* DOCUMENTAZIONE = 
-* CSS = 
+* DOCUMENTAZIONE = Assoni Irene
+* CSS = Trevisan Michele, Assoni Irene
+* JAVASCRIPT = Zana Simone
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
