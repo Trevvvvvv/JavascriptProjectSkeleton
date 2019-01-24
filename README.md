@@ -1,9 +1,7 @@
 # Scheletro per i lavori di gruppo
 
-## Titolo progetto 
-
-Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <500 caratteri)
-
+## BOOK SEARCHER
+Book Searcher è un'applicazione programmata appositamente per tutti i computer, essa permette di ricercare qualsiasi libro oppure tutti i libri scritti da un determinato autore. L'interfaccia è molto semplice, alla portata di tutti: è sufficiente digitare il nome del libro o l'autore, avviare la ricerca e l'elenco dei libri (con descrizione) compariranno sul nostro schermo. L'applicazione utilizza un'API google chiamata "GoogleBooks" che è stata implementata nel nostro codice.
 ## Partecipanti
 Elenco partecipanti
 * Zana Simone
