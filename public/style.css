@@ -15,15 +15,12 @@ button.elementiIniziali{
 }
 
 h2.primo{
-    text-align: center;
-    margin-left: 200px;
+    margin-top: 100px;
 }
 
 h2.altri{
-    text-align: center;
     margin-top: 300px;
-    margin-left: 200px;
-}
+    }
 
 img{
     height: 250px;
