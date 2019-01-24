@@ -1,12 +1,39 @@
-h2{
+body{
+  background-color: #c7bea3bd;
+}
+
+h1.ricerca{
+  text-align: center;
+}
+input.elementiIniziali{
+  position: absolute;
+  left: 550px;
+}
+button.elementiIniziali{
+  position: absolute;
+  left: 750px;
+}
+
+h2.primo{
     text-align: center;
+    margin-left: 200px;
+}
+
+h2.altri{
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 200px;
 }
 
 img{
     height: 250px;
     width: auto;
+    float:left;
 }
 p.description{
-    font-size: 10px;
+    font-size: 15px;
     font-family: monospace;
+    text-align: center;
+    margin-top: 75px;
+    margin-left: 200px;
 }
