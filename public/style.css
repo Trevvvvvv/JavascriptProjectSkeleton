@@ -27,10 +27,14 @@ img{
     width: auto;
     float:left;
 }
-p.description{
+.description{
     font-size: 15px;
     font-family: monospace;
     text-align: center;
     margin-top: 75px;
     margin-left: 200px;
+
+}
+.filtro{
+    float: right;
 }
